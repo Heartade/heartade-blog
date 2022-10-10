@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Disclaimer
+
+Nope not using this for my actual blog, just needed to write something real quick out of Next.js
+
+## TODO
+
+ * improve look & feel
+ * add github-flavor markdown
+ * replace `dangerouslySetInnerHTML` with safer alternative
+   * current usage is to demonstrate its usage to someone sitting across
+ * how should the page structure work anyway
+ * templates support
+ * add Auth0 and online editing (someday)
+ * add tagging DB (someday later)
 
 ## Getting Started
 
